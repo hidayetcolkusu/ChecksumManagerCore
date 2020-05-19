@@ -1,0 +1,9 @@
+D:\Hidayet\MyRepos\ComManagers\ChecksumManagerCore\ChecksumManagerCore\bin\Debug\netstandard2.0\ChecksumManagerCore.deps.json
+D:\Hidayet\MyRepos\ComManagers\ChecksumManagerCore\ChecksumManagerCore\bin\Debug\netstandard2.0\ChecksumManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\ChecksumManagerCore\ChecksumManagerCore\obj\Debug\netstandard2.0\ChecksumManagerCore.csprojAssemblyReference.cache
+D:\Hidayet\MyRepos\ComManagers\ChecksumManagerCore\ChecksumManagerCore\obj\Debug\netstandard2.0\ChecksumManagerCore.AssemblyInfoInputs.cache
+D:\Hidayet\MyRepos\ComManagers\ChecksumManagerCore\ChecksumManagerCore\obj\Debug\netstandard2.0\ChecksumManagerCore.AssemblyInfo.cs
+D:\Hidayet\MyRepos\ComManagers\ChecksumManagerCore\ChecksumManagerCore\bin\Debug\netstandard2.0\ChecksumManagerCore.pdb
+D:\Hidayet\MyRepos\ComManagers\ChecksumManagerCore\ChecksumManagerCore\obj\Debug\netstandard2.0\ChecksumManagerCore.csproj.CoreCompileInputs.cache
+D:\Hidayet\MyRepos\ComManagers\ChecksumManagerCore\ChecksumManagerCore\obj\Debug\netstandard2.0\ChecksumManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\ChecksumManagerCore\ChecksumManagerCore\obj\Debug\netstandard2.0\ChecksumManagerCore.pdb
